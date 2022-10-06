@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae9a4499-d5d6-4bbc-ae40-2820e0d428cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/entities/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/DeliveryCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Load.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/DeliveryCompanyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +60,7 @@
       <workItem from="1664966593040" duration="687000" />
       <workItem from="1664981041152" duration="654000" />
       <workItem from="1665031924373" duration="1287000" />
+      <workItem from="1665041853110" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1664966106091</created>
@@ -76,6 +74,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".." />
