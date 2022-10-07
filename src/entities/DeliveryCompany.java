@@ -24,7 +24,7 @@ public class DeliveryCompany {
         this.customers = customers;
     }
 
-    public DeliveryCompany(String deliveryCompanyName, List<Customer> customers) {
+    public DeliveryCompany(String deliveryCompanyName) {
         this.deliveryCompanyName = deliveryCompanyName;
         this.customers = customers;
     }
